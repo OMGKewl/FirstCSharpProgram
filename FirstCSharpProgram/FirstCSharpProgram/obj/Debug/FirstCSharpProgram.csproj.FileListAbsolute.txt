@@ -1,1 +1,12 @@
 D:\My Programing\GitHub\FirstCSharpProgram\FirstCSharpProgram\FirstCSharpProgram\bin\Debug\FirstCSharpProgram.exe.config
+D:\My Programing\GitHub\FirstCSharpProgram\FirstCSharpProgram\FirstCSharpProgram\bin\Debug\FirstCSharpProgram.exe
+D:\My Programing\GitHub\FirstCSharpProgram\FirstCSharpProgram\FirstCSharpProgram\bin\Debug\FirstCSharpProgram.pdb
+D:\My Programing\GitHub\FirstCSharpProgram\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\FirstCSharpProgram.csprojResolveAssemblyReference.cache
+D:\My Programing\GitHub\FirstCSharpProgram\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\Interop.AutoItX3Lib.dll
+D:\My Programing\GitHub\FirstCSharpProgram\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\FirstCSharpProgram.csproj.ResolveComReference.cache
+D:\My Programing\GitHub\FirstCSharpProgram\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\FirstCSharpProgram.Console.resources
+D:\My Programing\GitHub\FirstCSharpProgram\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\FirstCSharpProgram.Properties.Resources.resources
+D:\My Programing\GitHub\FirstCSharpProgram\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\FirstCSharpProgram.csproj.GenerateResource.Cache
+D:\My Programing\GitHub\FirstCSharpProgram\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\FirstCSharpProgram.exe
+D:\My Programing\GitHub\FirstCSharpProgram\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\FirstCSharpProgram.pdb
+D:\My Programing\GitHub\FirstCSharpProgram\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\FirstCSharpProgram.Form1.resources

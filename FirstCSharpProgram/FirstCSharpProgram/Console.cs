@@ -7,20 +7,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using AutoItX3Lib; // Autoit Library
 
 namespace FirstCSharpProgram
 {
-    public partial class Form1 : Form
+    public partial class Console : Form
     {
-        public Form1()
+        public Console()
         {
             InitializeComponent();
         }
 
-        private void btn_console_Click(object sender, EventArgs e)
+        AutoItX3 au3 = new AutoItX3(); //Create a new autoit object
+        private void btn_console_save_Click(object sender, EventArgs e)
         {
-            Console consoleForm = new Console(); //Create a new object
-            consoleForm.Show(); //Show the new form
+            au3.MouseMove(0, 0, 10);
+            au3.Sleep(100);
+
         }
     }
 }
